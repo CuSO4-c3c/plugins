@@ -1,0 +1,6 @@
+{
+     "messages": {
+          "userJoin": "Chào mừng {username} .",
+          "userLeave": "Tạm biệt {username} ."
+     }
+}
