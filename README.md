@@ -1,6 +1,6 @@
 # Plugins for c3cbot 0.x
 # Cách cài trên Windows/macOS/Linux(máy tính)
-Tải source code dưới dạng file .zip, giải nén bỏ vào folder plugins.
+Tải source code dưới dạng file .zip (với Windows hoặc macOS) hoặc .tar.gz (Linux), giải nén bỏ vào folder plugins.
 # Cách cài trên Termux 
 Vào termux, gõ < ./start-ubuntu.sh > để vào ubuntu.
 Sau đó, paste dòng lệnh sau vào:
